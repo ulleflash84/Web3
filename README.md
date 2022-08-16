@@ -1,3 +1,3 @@
 # web3
 
-This is the web3 knowledge base of ulleflash84.
+This is the Web3 knowledge base of ulleflash84.
