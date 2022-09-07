@@ -1,38 +1,28 @@
 **Aufgaben**
 * Beschreibung ausfüllen
-* In Discord posten
-* Vorschau löschen
+* In Discord im Channel discovery (Kategorie NFT SPACE) posten
+* Vorschau von Links löschen
 
-**Projektvorstellung: **
+**Projektvorstellung: Projektname**
 
 **Allgemein**
 Source: 
 
 **Utility**
 
-**Homepage**
-
 **Links**
+Contract Source Code: 
 Homepage: 
 Discord: 
 Instagram: 
 Medium: 
 Merge: 
+OpenSea: 
+Roadmap: 
 Twitter: 
 YouTube: 
 
 **Team**
-
-**Roadmap**
-
-**Flags**
-* grün: 
-* orange: 
-* rot: 
-
-**Contract Source Code**
-
-**OpenSea**
 
 **Persönliche Einschätzung**
 Was halte ich von dem Projekt?
